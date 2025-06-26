@@ -18,3 +18,7 @@ Just open index.html in a browser or use a live server in VS Code.
 
 ## 🙌 Author
 Mohit Sati – [IIIT Ranchi B.Tech Student, 2025]
+
+### Status:
+✅ Code complete  
+⚠ GitHub Pages album issue (optional fix in future)
