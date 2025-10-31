@@ -17,7 +17,7 @@ Just open index.html in a browser or use a live server in VS Code.
 ✅ Completed – More features may be added in the future.
 
 ## 🙌 Author
-Mohit Sati – [IIIT Ranchi B.Tech Student, 2025]
+Mohit Sati – [IIIT Ranchi B.Tech Student, 2024]
 
 ### Status:
 ✅ Code complete  
